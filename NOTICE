@@ -1,0 +1,6 @@
+This repository is an unmodified copy of PayPal's Checkout Ruby SDK, as published in the fork
+https://github.com/darkBuddha/Checkout-Ruby-SDK at commit f1aab0f4e367aad1de937bba6cbc4abb22900339.
+
+Neither that fork nor the upstream repository https://github.com/paypal/Checkout-Ruby-SDK is available
+anymore, so Codeur keeps this copy to install the gem. The code is licensed under the Apache License 2.0
+(see LICENSE); copyright remains with its original authors.
